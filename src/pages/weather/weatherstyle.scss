@@ -1,0 +1,16 @@
+.cap{
+    text-transform: capitalize;
+}
+
+.greynation {
+    background-color: rgba($color: #b6b6b68f, $alpha: 1.0);
+    color: white;
+}
+
+.center {
+    position: absolute;
+    top: 35%;
+    left: 70%;
+    display: flex;
+    justify-content: center;
+}
